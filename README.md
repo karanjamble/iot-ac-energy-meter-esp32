@@ -27,6 +27,12 @@ This project is an IoT-based AC Energy Monitoring System built using ESP32 and t
 ## Working
 The ESP32 reads real-time values from the PZEM-004T module via UART communication. It hosts a local web server and serves a dashboard. The frontend fetches data from the ESP32 every 800ms and updates values along with smooth graphical representation using canvas.
 
+## Demo
+
+![Setup](images/Circuit connection.png)
+![Circuit](images/circuit.png)
+![Dashboard](images/Output graph.png)
+
 ## Project Structure
 - code.ino → Main ESP32 program
 - images/ → Circuit and output screenshots

@@ -34,7 +34,7 @@ The ESP32 reads real-time values from the PZEM-004T module via UART communicatio
 ![CT Sensor](images/Current%20Transformet%20CT.png)
 ![ESP32](images/ESP32%20Development%20Board.png)
 ![Output Graph](images/Output%20Graph.png)
-![PZEM Module](images/PZEM-004T%20V3.0.png)
+![PZEM Module](images/PZEM-004T%20V3.O.png)
 
 ## Project Structure
 - code.ino → Main ESP32 program
